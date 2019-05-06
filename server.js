@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+/* eslint-disable no-undef */
 // get dependencies
 const express = require('express');
 const bodyParser = require('body-parser');

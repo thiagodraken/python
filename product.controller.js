@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const Product = require('./product.model.js');
 
 //Create new Product
