@@ -492,6 +492,11 @@ Conclusão: Foram obtidos retornos bem diferentes com as ferramentas.
 
 Link: https://repl.it/repls/VisibleExtrasmallPackagedsoftware
 
-#Aula 9 - Pegar uma imagem de URL e retornar Thumbnail
-Arquivo main: API thumbnail.py
-Rode: pip install -r requirements.txt
+#Etapa 7 - Aula 9 - APIs
+
+Link: https://repl.it/@vitorpaes1/PraticaAPI
+
+#Etapa 8 - Aula 10 - GUI
+
+(OBS: Baixar os arquivos no link abaixo e importar o projeto em uma IDE local, como o PyCharm)
+https://drive.google.com/open?id=1KXLOU8UlB5Ihmy7sh0_FYrtH57MTKLR0
